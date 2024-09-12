@@ -10,7 +10,7 @@
 
 <br/>
 
-Welcome to SuperNova OS (SnOS) - the revolutionary Node.js website proxy designed to resemble a fully functional operating system experience right in your browser. With SnOS, you can enjoy a unique browsing experience, complete with customizable wallpapers, interactive programs, and a plethora of features to explore.
+Welcome to SuperNova OS (SnOS) - the revolutionary Node.js website proxy designed to resemble a fully functional operating system experience right in your browser. With SnOS, you can enjoy a unique browsing experience, complete with customizable wallpapers, interactive programs, and a plethora of features to explore. **NOTE** this is **NOT** my thing. The Original one can be found here ==> https://github.com/SuperNova-Network/SuperNova_OS. I take no credit at all, im not an ass.
 
 ## Overview
 
